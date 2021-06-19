@@ -1,4 +1,4 @@
-from python_ci_test import printer
+from python-ci-test import printer
 
 
 def test_print_message():
