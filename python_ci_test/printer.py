@@ -5,7 +5,7 @@ def print_this_message(message: str):
 
 
 def print_add(num1: int, num2: int):
-    res = num1 + num2 - 1
+    res = num1 + num2
     formatted_message = "Result: {}".format(str(res))
     print(formatted_message)
     return formatted_message
