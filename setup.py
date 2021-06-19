@@ -15,6 +15,6 @@ setup(
     author="Angel Rey",
     author_email="afreydev@gmail.com",
     license="MIT",
-    packages=["python-ci-test"],
+    packages=["python_ci_test"],
     include_package_data=True,
 )
